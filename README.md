@@ -5,9 +5,7 @@ Pytorch implementation of KMeans
 This implementation ahs been inspired in part by [This work](subhadarship.github.io/kmeans_pytorch) . However this repo has not been updated in a while and I wanted to add some additional features, mainly a class implementation as I find it easier to handle, as well as some metrics.
 
 ## Installation
-```bash
-pip install torch-kmeans
-```
+Download the repository and install the package with pip:
 
 ## Usage
 
